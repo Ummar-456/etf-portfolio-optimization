@@ -102,5 +102,6 @@ The project requires the following packages:
 Install the dependencies using:
 ```bash
 pip install -r requirements.txt
+```
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
